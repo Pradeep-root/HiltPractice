@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerHilt</string>
+    <string name="provide_text">"This is provided string2"</string>
+</resources>
